@@ -1,6 +1,7 @@
 # A list of examples of integer usages:
 
 name = "neil young"
+
 age = '71'
 
 ### get string's length:
