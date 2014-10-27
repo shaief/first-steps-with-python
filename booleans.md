@@ -24,8 +24,9 @@
 | False | True  | False  |
 | True  | True  | True   |
 
+- - -
 
-### Boolean expressions 
+# Boolean expressions 
 * <	less than
 * >	greater than
 * =	equal to

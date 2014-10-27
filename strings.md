@@ -1,8 +1,9 @@
-# A list of examples of integer usages:
+# A list of examples of string usages:
 
+```
 name = "neil young"
-
 age = '71'
+```
 
 ### get string's length:
 ```
@@ -11,6 +12,8 @@ len(name)
 ```
 
 ### String slicing:
+#### [begin:end:step]
+
 #### get a character in a string:
 ```
 print name[0]
@@ -29,7 +32,7 @@ print name[1::2]
 print name[::2]
 >>> ni on
 print name[::-1]
-gnuoy lien
+>>> gnuoy lien
 
 ```
 
