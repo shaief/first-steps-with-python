@@ -35,7 +35,7 @@ print alf_murdered[-1]
 >>> William Sweet
 ```
 
-### slice a sequence of list items:
+#### slice a sequence of list items:
 ```
 print alf_murdered[1:3]
 >>> ['Bartolomeu Morais da Silva', 'David "Gypsy" Chain']

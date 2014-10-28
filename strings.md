@@ -44,25 +44,30 @@ age = 16
 district = 'Distrcit 12'
 sister = 'Prim'
 ```
-### primitive concatenation:
+
+#### primitive concatenation:
 ```
 sentence = 'This is ' + name + ', she is ' + str(age) + ' years old. She lives in ' + district + '.'
 print sentence
 >>> This is Katniss she is 16 years old. She lives in Distrcit 12.
 ```
-### old style formatting:
+
+#### old style formatting:
 ```
 sentence = 'This is %s she is %d years old. She lives in %s.' %(name, age, district)
 print sentence
 >>> This is Katniss she is 16 years old. She lives in Distrcit 12.
 ```
-### modern string formatting:
+
+#### modern string formatting:
 ```
 sentence = 'This is {}, she is {} years old. She lives in {}.'.format(name, age, district)
 print sentence
 >>> This is Katniss, she is 16 years old. She lives in Distrcit 12.
 ```
+
 #### another advantage of the modern string formatting:
+
 ##### when we want to use the same variable several times in a sentence.
 ```
 sentence = '''
