@@ -23,7 +23,10 @@ len(alf_murdered)
 ```
 
 ### List slicing:
-```[begin:end:step]```
+```
+[begin:end:step]
+```
+
 #### get an item in a list:
 ```
 print alf_murdered[0]
@@ -31,6 +34,7 @@ print alf_murdered[0]
 print alf_murdered[-1]
 >>> William Sweet
 ```
+
 ### slice a sequence of list items:
 ```
 print alf_murdered[1:3]
@@ -46,6 +50,7 @@ print alf_murdered[::-1]
 ```
 
 ### Sort a list:
+
 #### Default sort is according to lexical order:
 ```
 alf_murdered_sorted = sorted(alf_murdered)
