@@ -3,7 +3,8 @@
 * a string
 * a list
 * a tuple
-##### strings nad tuples are immutable
+
+##### strings and tuples are immutable
 ##### lists are mutable (items in a list can be replaced)
 
 ### to create a list from a string, we use split()
