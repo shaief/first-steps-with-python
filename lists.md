@@ -23,7 +23,7 @@ len(alf_murdered)
 ```
 
 ### List slicing:
-#### [begin:end:step]
+```[begin:end:step]```
 #### get an item in a list:
 ```
 print alf_murdered[0]
