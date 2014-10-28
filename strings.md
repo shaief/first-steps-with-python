@@ -63,7 +63,7 @@ print sentence
 >>> This is Katniss, she is 16 years old. She lives in Distrcit 12.
 ```
 #### another advantage of the modern string formatting:
-##### when we want to use the same variable several time in a sentence.
+##### when we want to use the same variable several times in a sentence.
 ```
 sentence = '''
 This is {0}, she is {1} years old.
