@@ -48,7 +48,10 @@ print list_casted_to_string
 "['N', 'o']"
 ```
 ### Sequence slicing (the same for all sequences):
-```[begin:end:step]```
+```
+[begin:end:step]
+```
+
 #### get an item in a sequence:
 ```
 print phrase[0]
