@@ -27,12 +27,12 @@
 - - -
 
 # Boolean expressions 
-* <	less than
-* >	greater than
-* =	equal to
-* <=	less than or equal to
-* >=	greater than or equal to
-* <>	not equal to
+* <     less than
+* >     greater than
+* ==    equal to
+* <=    less than or equal to
+* >=    greater than or equal to
+* <>    not equal to
 * not
 * or
 * and

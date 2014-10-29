@@ -48,7 +48,7 @@ print 2.0 ** 3.0
 ### add numbers:
 ```
 print 1 + 1.25
->>> 2.2.5
+>>> 2.25
 ```
 
 ### subtract numbers:
