@@ -9,13 +9,23 @@
 
 ### to create a list from a string, we use split()
 ```
-phrase = 'No one is free until everyone are free!'
+phrase = 'No one is free until everyone is free!'
 ```
 As you can see, phrase is a variable that holds a string. How can we split the sentence to the words building it?
 ```
 phrase_list = phrase.split()
+print phrase_list
+>>> ['No', 'one', 'is', 'free', 'until', 'everyone', 'is', 'free!']
 ```
 The basic syntax for  ```split()``` will split the sentence at whitespaces (space, tabs, newline).
+ 
+### to get sequence's length we use len():
+```
+len(phrase)
+>>> 79
+len(phrase_list)
+>>> 8
+```
 
 ### to create a string from items in a list, we use join()
 ```
@@ -24,14 +34,6 @@ slug_list = post_title.split()
 slug = '_'.join(slug_list)
 print slug
 >>> The_most_important_text_you_will_read
-```
- 
-### get sequence's length:
-```
-len(phrase)
->>> 79
-len(phrase_list)
->>> 8
 ```
 
 ### What happens when we cast string to list?
