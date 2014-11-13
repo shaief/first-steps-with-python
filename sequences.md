@@ -40,8 +40,7 @@ print slug
 ```
 phrase_casted_to_list = list(phrase_list[0])
 print phrase_casted_to_list
->>> ['N',
-     'o']
+>>> ['N', 'o']
 ```
 ### and when we cast list to string?
 ```
@@ -57,11 +56,11 @@ print list_casted_to_string
 #### get an item in a sequence:
 ```
 print phrase[0]
->>> A
+>>> N
 print phrase[-1]
 >>> !
 print phrase_list[0]
->>> As
+>>> No
 print phrase_list[-1]
 >>> free!
 ```
