@@ -85,6 +85,8 @@ print sentence
 
 ### String methods:
 ```
+name = 'Neil Young'
+
 print name.upper()
 >>> NEIL YOUNG
 print name.lower()
