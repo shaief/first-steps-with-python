@@ -1,6 +1,7 @@
 # Boolean algebra:
 
 ### not
+#### not a
 | a     | result |
 |-------|--------|
 | False | True   |
@@ -8,6 +9,7 @@
 
 
 ### or
+#### a or b
 | a     | b     | result |
 |-------|-------|--------|
 | False | False | False  |
@@ -17,6 +19,7 @@
 
 
 ### and
+#### a and b
 | a     | b     | result |
 |-------|-------|--------|
 | False | False | False  |
