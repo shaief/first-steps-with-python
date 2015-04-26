@@ -1,5 +1,5 @@
 # Welcome!
-This repository includes hand-on examples of Python 2.7 code.
+This repository includes hands-on examples of Python 2.7 code.
  
 # Table of contents:
 ### Basic Python types:
